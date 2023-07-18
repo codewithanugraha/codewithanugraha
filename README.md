@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Anugraha Acharya</h1>
 
-<!--
-**codewithanugraha/codewithanugraha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithanugraha&label=Profile%20views&color=db0606&style=flat" alt="codewithanugraha" /> </p>
 
-Here are some ideas to get you started:
+## 💻 Tech I Work With
+<p align="center">
+  <a href="#">
+      <img src="https://skillicons.dev/icons?i=ts,js,next,react,expressjs,nodejs,mongodb,prisma,graphql,mysql,postgresql,redis,redux,wordpress,php" />
+      <img src="https://skillicons.dev/icons?i=jest,cloudflare,gcp,aws,docker,kubernetes,firebase,supabase,appwrite,postman,babel,webpack,jquery,tailwind,sass,mui,bootstrap,css,figma,git,github,gitlab,md,bash,linux" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Socials
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/anugraha-acharya" target="_blank">
+      <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
+    </a>
+    <a href="https://twitter.com/AcharyaAnugraha" target="_blank">
+      <img align="center" src="https://skillicons.dev/icons?i=twitter"/>
+    </a>
+</p>
+
+## 📑 Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithanugraha&theme=tokyonight)](https://github.com/codewithanugraha/github-readme-stats)
