@@ -10,16 +10,5 @@
   </a>
 </p>
 
-## 🔗 Socials
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/anugraha-acharya" target="_blank">
-      <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
-    </a>
-    <a href="https://twitter.com/AcharyaAnugraha" target="_blank">
-      <img align="center" src="https://skillicons.dev/icons?i=twitter"/>
-    </a>
-</p>
-
 ## 📑 Analytics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithanugraha&theme=tokyonight)](https://github.com/codewithanugraha/github-readme-stats)
